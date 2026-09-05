@@ -1,3 +1,14 @@
+.html {
+    font-family: "Roboto", sans-serif;
+}
+
+.navbar,
+.hero-section,
+.feature-section,
+.footer-section {
+    border: 3px solid black;
+}
+
 .navbar {
     display: flex;
     align-items: center;
