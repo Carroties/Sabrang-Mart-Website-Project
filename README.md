@@ -20,7 +20,7 @@ and customers.
 
 ## Tech Stack
 
-* **Frontend:** HTML5, CSS3, JavaScript (Vanilla JS)
+* **Frontencd:** HTML5, CSS3, JavaScript (Vanilla JS)
 * **Deployment:** [Vercel](https://lpg-gas-booking-project.vercel.app)
 
 ---
