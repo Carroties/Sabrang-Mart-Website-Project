@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.0.0.4] - 2026-11-7
 ### Changes
 - Changed the design for buttons and makes it has hover interaction
+- Slightly updated the login and signup script
 
 ## [0.0.0.3] - 2026-08-09
 ### Added
