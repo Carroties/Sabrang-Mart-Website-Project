@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 - None
 
+## [0.0.0.4] - 2026-11-7
+### Changes
+- Changed the design for buttons and makes it has hover interaction
+
 ## [0.0.0.3] - 2026-08-09
 ### Added
 - Added admin and customer account's pages for future use
