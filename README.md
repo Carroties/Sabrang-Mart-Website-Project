@@ -1,4 +1,4 @@
-# Sabrang Mart - LPG Gas Booking System v0.0.0.3 (Pre-Release)
+# Sabrang Mart - LPG Gas Booking System v0.0.0.2 (Pre-Release)
 
 An intuitive web-based application designed solely for practical use for both the administrator
 and customers.
