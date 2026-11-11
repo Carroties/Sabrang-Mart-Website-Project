@@ -1,3 +1,5 @@
+{% load static %}
+
 <!DOCTYPE html>
 <html lang="id">
 
@@ -6,13 +8,15 @@
     <meta name="viewport" content="width=device-width", inital-scale="1.0"/>
     <title>Sabrang Mart Website</title>
     <script src="app.js" defer></script>
-    <link rel="stylesheet" href="SM_Web.css">
+    <link rel="stylesheet" href="{% static 'SM_Web.css' %}">
 </head>
 
 <body>
+    {% block content %}
+    {% endblock %}
     <div class="navbar">
         <a href="index.html">
-            <img src="gambar/logo-sabrang-mart.png" width="200" height="100" alt="Logo Sabrang Mart"/>
+            <img src="{% static 'gambar/logo-sabrang-mart.png' %}" width="200" height="100" alt="Logo Sabrang Mart"/>
         </a>
 
         <div class="navbar-links">
@@ -46,7 +50,7 @@
                 </a>
             </div>
             <div class="image-hero-section">
-                <img src="gambar/depan-toko.webp" width="500" alt="Tombol foto dari Sabrang Mart dari samping">
+                <img src="{% static 'gambar/depan-toko.webp' %}" width="500" alt="Tombol foto dari Sabrang Mart dari samping">
             </div>
         </div>
     </div>
