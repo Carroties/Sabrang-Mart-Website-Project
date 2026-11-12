@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Changed the design for buttons and makes it has hover interaction
 - Slightly updated the login and signup script
 - Added Static files to integrate CSS files and images to the website
+- Commit
 
 ### Changes
 
