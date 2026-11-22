@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 
 
 ## [0.0.0.2] - 2026-11-7 to 2026-11-14 (Week 2)
-### Changes
+### Changes sdfdsfsd
 - Added Python's Django as the Backend Language for the project
 - Added Virtual Environment (venv), Project folder (project), and App folder (app) to set up local server for Django
 - Changed the design for buttons and makes it has hover interaction
